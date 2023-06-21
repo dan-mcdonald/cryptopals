@@ -1,0 +1,9 @@
+{
+  "name": "cryptopals",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dan-mcdonald/cryptopals.git",
+  "author": "Dan McDonald",
+  "license": "MIT",
+  "private": true
+}
